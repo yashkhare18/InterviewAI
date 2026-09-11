@@ -11,7 +11,7 @@ import InterviewReport from './pages/InterviewReport'
 import Pricing from './pages/Pricing'
 
 
-export const ServerUrl = "http://localhost:8000"
+export const ServerUrl = "https://interviewai-j0uq.onrender.com"
 
 
 const App = () => {
